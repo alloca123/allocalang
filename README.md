@@ -5,7 +5,7 @@ hello world in allocalang looks like this:
 ```
 #include <stdio.h>
 int main(){
-puts("hello world);
+puts("hello world");
 }
 ```
 to compile this, just run:
